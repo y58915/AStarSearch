@@ -1,0 +1,4 @@
+﻿  P1.cpp
+c:\users\asus\desktop\无标题文件夹\p1\p1\p1.cpp(115): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  P1.vcxproj -> C:\Users\asus\Desktop\无标题文件夹\P1\x64\Debug\P1.exe
+  P1.vcxproj -> C:\Users\asus\Desktop\无标题文件夹\P1\x64\Debug\P1.pdb (Partial PDB)
